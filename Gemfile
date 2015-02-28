@@ -16,6 +16,8 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 gem 'therubyracer', platforms: :ruby
 gem 'uikit-sass-rails', '~> 1.3.0'
+gem 'simple_form'
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
